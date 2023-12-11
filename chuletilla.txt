@@ -8,3 +8,12 @@ print salida
 proceso.stdout.close()
 else
 return 'Error: ', error
+
+## Módulos útiles
+Random randint
+socket: gethostname
+datetime: datetime
+
+Usar función datetime.now para hora actual.
+
+Para formatear se usará fstime
